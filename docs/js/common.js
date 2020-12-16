@@ -1,9 +1,7 @@
 $(document).ready(function () {
 
     // URLs for menu
-    var URL_MENU   = document.location.origin + '/docs/_shared/toc.menu';
-
-    //url: 'http://127.0.0.1:5500/docs/_shared/toc.menu',
+    var URL_MENU   = document.location.origin + '/_shared/toc.menu';
 
     // --------------------------------------------
     //  A S Y N C    W O R K E R S
@@ -87,7 +85,7 @@ $(document).ready(function () {
 
     // gets a link based on hyperlink name
     window.getLink = function(hyperlinkTxt) {
-        return document.location.origin + '/docs/pages/article.html?title=' + spaceSepTxtToHypenSep(hyperlinkTxt);
+        return document.location.origin + '/pages/article.html?title=' + spaceSepTxtToHypenSep(hyperlinkTxt);
     };
 
     // get all lnks in menu
@@ -102,7 +100,7 @@ $(document).ready(function () {
 
     // gets markdown page url for current invoked page
     window.getMarkdownFileURL = function() {
-        return document.location.origin + '/docs/pages/mds/' + getCurrentPage() + '.md';
+        return document.location.origin + '/pages/mds/' + getCurrentPage() + '.md';
     };
 
     // finds in menu item with given title
@@ -141,7 +139,7 @@ $(document).ready(function () {
 
     // returns the image URL for given user
     window.getUserImageLink= function(name) {
-        return document.location.origin + '/docs/pages/images/authors/' + spaceSepTxtToHypenSep(name) + ".jpg";
+        return document.location.origin + '/pages/images/authors/' + spaceSepTxtToHypenSep(name) + ".jpg";
     };
 
     // sets previous and next buttons hrefs
