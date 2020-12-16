@@ -56,6 +56,7 @@ Data A3 | DataB3
 Awesome right ? Once you start writing in Markdown, you will fall in love with it. Ready to start writing? 
 Remember, you must name your file as per the topic in the index. Eg. if you topic is *Machine Learning* name of the file you are submitting content 
 in should be `machine-learning.md`
+
 [Click here to submit your content] 
 
 [Marked]: https://github.com/markedjs/marked/
