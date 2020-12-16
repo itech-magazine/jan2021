@@ -1,0 +1,103 @@
+.heading {
+  font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+* {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+nav {
+  text-align: center;
+  padding: 0.8rem;
+  box-shadow: 0 1px 4px -1px rgb(86, 86, 86);
+  background-color: rgb(17, 49, 70);
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+}
+
+.frame {
+  display: flex;
+  flex-direction: row;
+}
+
+.container {
+  max-width: 680px;
+}
+
+.index {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.index li {
+  font-family: "Noto Sans JP", sans-serif;
+  padding: 5px 0;
+  padding-left: 10px;
+}
+
+.index li.index-heading {
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  text-transform: capitalize;
+  padding: 10px 0;
+  padding-left: 10px;
+  background-color: rgb(104, 107, 80);
+  color: white;
+}
+
+.link-simple {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 961px) {
+  /* smartphones, iPhone */
+
+  body {
+    overflow-x: hidden;
+  }
+
+  nav {
+    justify-content: space-between;
+  }
+
+  .hamburger {
+    border: 1px solid whitesmoke;
+    width: 24px;
+    height: 24px;
+  }
+
+  .line {
+    border: 1px solid whitesmoke;
+    margin: 4px 3px;
+  }
+
+  .menu {
+    width: 100vw;
+    background-color: white;
+    display: block;
+    position: absolute;
+    top: 0;
+    z-index: 50;
+  }
+
+  .menu-hide {
+    right: -1000px;
+  }
+
+  .menu-show {
+    left: 0;
+    right: 0;
+  }
+
+  .cross {
+    margin-top: -10px;
+    font-size: 1.5rem;
+    color: gray;
+  }
+}

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iTech Magazine Home Page</title>
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
+
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/colors.css">
+    <link rel="stylesheet" href="../css/fonts.css">
+    <link rel="stylesheet" href="css/common.css">
+    <!-- Menu JS -->
+    <script src="js/menu.js"></script>
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+    <!-- Common JS -->
+    <script src="../js/common.js"></script>
+</head>
+
+<body>
+
+    <nav>
+        <span class="heading">i-Tech Magazine</span>
+        <div class="hamburger d-md-none d-block" onclick="menuShow()">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+    </nav>
+
+    <div class="frame">
+
+        <!-- left column -->
+        <div class="menu col-md-3 d-none d-md-flex flex-column">
+            <div class="row mt-4">
+                <div class="col-9 text-left ml-2 heading c-blue-01">
+                    Table of contents
+                </div>
+                <div class="col-2 text-right cross d-md-none d-block pr-0" onclick="menuHide()">
+                    X
+                </div>
+            </div>
+
+            <div class="row mt-4">
+                <div class="col toc">
+
+                </div>
+            </div>
+        </div>
+
+        <!-- center column -->
+        <div class="col-md-6 col-12 d-flex flex-column">
+
+            <p class="heading fs-18 mt-3 text-justify">Step-by-step guide for predicting Wine Preferences using
+                Scikit-Learn</p>
+            <div class="row mt-2 mb-4">
+                <div class="col-md-1 col-2">
+                    <img class="author-img"
+                        src="https://st2.depositphotos.com/1637787/6885/i/600/depositphotos_68857999-stock-photo-handsome-young-man-smiling.jpg" />
+                </div>
+                <div class="col text-left">
+                    <div class="ml-2">
+                        <span>Saurabh Jain</span><br>
+                        <span class="c-gray"><small>Assistant Director (Systems), Project Insight</small></span>
+                    </div>
+                </div>
+            </div>
+            <img class="img-fluid"
+                src="https://www.adobe.com/content/dam/cc/us/en/products/creativecloud/stock/stock-riverflow1-720x522.jpg.img.jpg" />
+
+            <div class="row mt-3 article">
+                <div class="col">
+                    <!-- Enter content below this line only -->
+                    <p class="heading fs-12">
+                        Sub Heading Heading Heading
+                    </p>
+                    <p class="text-justify">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+                        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+                        and more recently with desktop publishing software like Aldus PageMaker including versions of
+                        Lorem Ipsum.
+                    </p>
+                    <p class="text-justify">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+                        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+                        and more recently with desktop publishing software like Aldus PageMaker including versions of
+                        Lorem Ipsum.
+                    </p>
+                    <p class="heading fs-12">
+                        Sub Heading Heading Heading
+                    </p>
+                    <p class="text-justify">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+                        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+                        and more recently with desktop publishing software like Aldus PageMaker including versions of
+                        Lorem Ipsum.
+                    </p>
+                    <p class="text-justify">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+                        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+                        and more recently with desktop publishing software like Aldus PageMaker including versions of
+                        Lorem Ipsum.
+                    </p>
+                    <!-- Enter content above this line only -->
+                </div>
+            </div>
+
+        </div>
+
+        <!-- right column -->
+        <div class="col-md-3 d-none d-md-flex flex-column">
+
+        </div>
+    </div>
+</body>
+
+</html>

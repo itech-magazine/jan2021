@@ -1,0 +1,51 @@
+.author-img {
+  height: 48px;
+  width: 48px;
+  border-radius: 48px;
+  border: 1px solid gray;
+  object-fit: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-position: center;
+  background-size: 100%;
+  background-image: url("../images/authors/user-placeholder-img.png");
+}
+
+.article .content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.article .content p {
+  text-align: justify;
+  line-height: 1.8rem;
+}
+
+.article .content table {
+  border-collapse: collapse;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-spacing: 0;
+  width: 100%;
+  margin: 0 0 1rem;
+  border-left: 1px solid #b1b1b1;
+}
+
+.article .content table thead tr th {
+  background: #17141d;
+  color: #fff;
+  border-right: 1px solid #a4a4a4;
+  padding: 1rem;
+}
+
+.article .content table tbody tr td {
+  border-bottom: 1px solid #b1b1b1;
+  border-right: 1px solid #b1b1b1;
+  padding: 1rem;
+}
+
+.article .content table tbody tr:nth-child(2n) {
+  background: #f5f5f5;
+}

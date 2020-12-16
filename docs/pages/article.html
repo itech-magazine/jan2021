@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iTech Magazine Home Page</title>
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
+
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/colors.css">
+    <link rel="stylesheet" href="../css/fonts.css">
+    <link rel="stylesheet" href="css/common.css">
+    <!-- Menu JS -->
+    <script src="js/menu.js"></script>
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+    <!-- JS for markdown processing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- Common JS -->
+    <script src="../js/common.js"></script>
+</head>
+
+<body>
+
+    <nav>
+        <span class="heading">i-Tech Magazine</span>
+        <div class="hamburger d-md-none d-block" onclick="menuShow()">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+    </nav>
+
+    <div class="frame">
+
+        <!-- left column -->
+        <div class="menu col-md-3 d-none d-md-flex flex-column">
+            <div class="row mt-4">
+                <div class="col-9 text-left ml-2 heading c-blue-01">
+                    Table of contents
+                </div>
+                <div class="col-2 text-right cross d-md-none d-block pr-0" onclick="menuHide()">
+                    X
+                </div>
+            </div>
+
+            <div class="row mt-4">
+                <div class="col toc">
+
+                </div>
+            </div>
+        </div>
+
+        <!-- center column -->
+        <div class="col-md-6 col-12 d-flex flex-column article">
+
+            <p class="heading fs-18 mt-3 text-justify"></p>
+            <div class="row mt-2 mb-4">
+                <div class="col-md-1 col-2 author-img ml-3">
+                    <!-- Author's image -->
+                </div>
+                <div class="col text-left author-info">
+                    <div class="ml-md-2 ml-0">
+                        <span>FirstName MiddleName LastName </span><br>
+                        <span class="c-gray"><small>Designation, Project/RCC</small></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mt-3 d-block">
+                <div class="col content">
+                    <!-- Enter content below this line only  -->
+                    <!-- Enter content above this line only -->
+                </div>
+            </div>
+
+            <div class="row mt-3 d-flex justify-content-between buttons">
+                <div class="col justify-content-between d-flex">
+                    <a class="btn btn-outline-dark text-left">
+                        Previous
+                    </a>
+                    <a class="btn btn-outline-dark pl-4 pr-4 text-right">
+                        Next
+                    </a>
+                </div>
+            </div>
+
+            <div class="row mt-3 d-block">
+                <div class="col text-center c-gray mb-3">
+                    <hr>
+                    <small>This page is rendered on the fly using <a
+                            href="https://github.com/markedjs/marked">MarkedJS</a>
+                    </small>
+                    <br>
+                    <small>Made with <span style="color: #e25555;">&hearts;</span>. Hosted on <a
+                            href="https://github.com/">GitHub</a>.</small>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- right column -->
+        <div class="col-md-3 d-none d-md-flex flex-column">
+
+        </div>
+    </div>
+</body>
+
+</html>

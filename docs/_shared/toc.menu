@@ -1,0 +1,68 @@
+<ul class="index">
+                        <li>
+                            <a href="#" class="link-simple btn btn-outline-secondary w-100 mb-4">How to contribute content</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">From the editorial team</a>
+                        </li>
+                        <li class="index-heading">
+                            Technical Series
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Machine Learning</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Application Programming Interface</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Simplifying Technology</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Cybersecurity</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Data Centre</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Networking</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Cloud Computing</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Software Design and Architecture</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Virtual Private Network</a>
+                        </li>
+                        <li class="index-heading">
+                            Good Reads
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Topic by Saurabh</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Poem 1</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Poem 2</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Batra Sir Topic</a>
+                        </li>
+                        <li class="index-heading">
+                            General Knowledge
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Topic by Saurabh</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Topic by Soumya</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Topic by Kaviraj</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple btn btn-outline-secondary w-100 mt-4">How to contribute content</a>
+                        </li>
+                    </ul>
