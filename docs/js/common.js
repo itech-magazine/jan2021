@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     // URLs for menu
-    var URL_MENU   = document.location.origin + '/jan2021/_shared/toc.menu';
+    var URL_MENU   = 'https://raw.githubusercontent.com/itech-magazine/jan2021/master/docs/_shared/toc.menu';
 
     // --------------------------------------------
     //  A S Y N C    W O R K E R S
