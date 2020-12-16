@@ -53,15 +53,18 @@ Data A1 | DataB1
 Data A2 | DataB2
 Data A3 | DataB3
 
-Awesome right ? Once you start writing in Markdown, you will fall in love with it. Ready to start writing? 
+Awesome right ? Once you start writing in Markdown, you will fall in love with it.
 
 
 Remember, you must name your file as per the topic in the index. Eg. if you topic is *Machine Learning* name of the file you are submitting content 
-in should be `machine-learning.md`
+in should be `machine-learning.md`. Checkout this file as markdown from [here]. Copy its content to your new file and start editing.
+
+Ready to start writing? 
 
 
 [Click here to submit your content] 
 
 [Marked]: https://github.com/markedjs/marked/
 [Markdown]: http://daringfireball.net/projects/markdown/
-[Click here to submit your content]: http://shorturl.at/fwOU1
+[here]: https://raw.githubusercontent.com/itech-magazine/jan2021/master/docs/pages/mds/how-to-contribute-content.md
+[Click here to submit your content]: https://github.com/itech-magazine/jan2021/new/master/docs/pages/mds
