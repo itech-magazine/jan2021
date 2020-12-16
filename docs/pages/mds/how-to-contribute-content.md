@@ -13,7 +13,7 @@ Just consider this page as template and start writing your article. This page is
 converted to HTML using [Marked]. Markdown is a simple text format whose goal is to be very easy to read and write.
 
 You must start your markdown file with your name and designation/project in second line, just like I have done here.
-And place your photograph in /images/authors with name as `firstname-middlename-lastname.jpg`. You can skip middlename 
+And upload your photograph at this [path] with name as `firstname-middlename-lastname.jpg`. You can skip middlename 
 if you so desire. The rendering code will create image name your name.
 
 Also, try to keep the first thing after title, as an image, It just looks tad better.
@@ -68,3 +68,4 @@ Ready to start writing?
 [Markdown]: http://daringfireball.net/projects/markdown/
 [here]: https://raw.githubusercontent.com/itech-magazine/jan2021/master/docs/pages/mds/how-to-contribute-content.md
 [Click here to submit your content]: https://github.com/itech-magazine/jan2021/new/master/docs/pages/mds
+[path]: https://github.com/itech-magazine/jan2021/tree/master/docs/pages/images/authors
