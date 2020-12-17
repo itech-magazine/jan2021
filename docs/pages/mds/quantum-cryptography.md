@@ -14,13 +14,13 @@ Therefore, a lot is at stake when such an algorithm goes friable. And, of course
 
 It has already been established that Quantum computers can easily crack RSA, provided one can develop Quantum computers with enough qubits for doing so. 
 Qubits give us the total number of states a Quantum computer can be at a time. With a qubit size of 64, a quantum computer can work concurrently using 2<sup>64</sup> states, 
-and to solve an equivalent problem a supercomputer may take months. Currently, research is progressing on developing Quantum computers with an increased number of qubits. 
+and to solve an equivalent problem, a supercomputer may take months. Currently, research is progressing on developing Quantum computers with an increased number of qubits. 
 At the same time, science has been resilient by developing new technologies that counteract such challenges, time and again. In this direction came Quantum Cryptography, 
 which is theoretically, uncrackable. 
 
 
 Quantum cryptography is a potential antidote to the existing challenge posed by Quantum computers. The fundamental idea behind quantum cryptography lies on the fact that two quantum particles can ideally mimic each other state, even from a distance, without having any 
-interaction between them—called quantum entanglement. That is if we send one particle to one person and the second particle to another, it is guaranteed that when both 
+interaction between them—called as quantum entanglement. That is if we send one particle to one person and the second particle to another, it is guaranteed that when both 
 receive them, each particle will be in the same state as that of the other. The state of the particle can be a random 0 or 1, but this is good enough for exchanging a 
 random cryptographic asymmetric key between the two interested parties. Any snooping, while on transit, can change the state of the particles and thus they are detectable.
 
