@@ -28,6 +28,18 @@
   margin-bottom: 20px;
 }
 
+.article .content blockquote p {
+  margin-bottom: 0px !important;
+}
+
+.article .content blockquote {
+  padding: 10px 20px;
+  border-left: 10px solid coral;
+  background-color: cornsilk;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 .article .content table {
   border-collapse: collapse;
   text-indent: initial;
