@@ -13,7 +13,7 @@ Therefore, a lot is at stake when such an algorithm goes friable. And, of course
 
 
 It has already been established that Quantum computers can easily crack RSA, provided one can develop Quantum computers with enough qubits for doing so. 
-Qubits give us the total number of states a Quantum computer can be at a time. With a qubit size of 64, a quantum computer can work concurrently using 64 states, 
+Qubits give us the total number of states a Quantum computer can be at a time. With a qubit size of 64, a quantum computer can work concurrently using 2<sup>64</sup> states, 
 and to solve an equivalent problem a supercomputer may take months. Currently, research is progressing on developing Quantum computers with an increased number of qubits. 
 At the same time, science has been resilient by developing new technologies that counteract such challenges, time and again. In this direction came Quantum Cryptography, 
 which is theoretically, uncrackable. 
