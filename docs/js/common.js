@@ -112,6 +112,12 @@ $(document).ready(function () {
         return document.location.origin + '/jan2021/pages/mds/' + getCurrentPage() + '.md';
     };
 
+    // finds minutes to read content based on words
+    // add a minute extra
+    window.getMinsToRead = function(wordCount) {
+        return Math.round(wordCount / 225) + 1;
+    };
+
     // finds in menu item with given title
     window.findInMenu = function(title) {
 
@@ -228,9 +234,12 @@ $(document).ready(function () {
         // get reference to img
         var authorImg = article.getElementsByClassName('author-img')[0];
         // and author image
-        //authorImg.src = getUserImageLink(author.innerHTML.trim().split('\n')[0]);
         authorImg.style.backgroundImage = 'url(' + getUserImageLink(author.innerHTML.trim().split('\n')[0]) + ')';
 
+        // set minutes to read
+        var minsToRead = getMinsToRead(data.split(' ').length);
+        authorInfo.getElementsByTagName('span')[2].innerHTML = (minsToRead > 1 ? (minsToRead + " mins") : (minsToRead + " min")) + " read";
+        
         // get title
         var title = content.getElementsByTagName('h1')[0];
 
