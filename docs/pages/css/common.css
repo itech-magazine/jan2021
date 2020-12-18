@@ -13,6 +13,14 @@
   background-image: url("../images/authors/user-placeholder-img.png");
 }
 
+a:hover {
+  fill: white;
+}
+
+path {
+  fill: inherit;
+}
+
 .article .content img {
   max-width: 100%;
   height: auto;
