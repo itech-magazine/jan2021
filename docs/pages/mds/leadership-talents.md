@@ -11,7 +11,7 @@ Leaders should have  the power  to transform vision into reality; bring focus an
 Such leaders help build and sustain a high performance culture;  take  proactive steps helping  the organization to thrive even under  the most adverse  environment. 
 
 Any  organization is a conglomeration  of  people from diverse background, experience, beliefs, working towards a common goal. And the employees look up to their  leaders  as the ones who strive to do the right things -  creating a conducive  work place, provide equal opportunities for performance and  growth, ensure psychological safety among others.
-	Leadership has many facets. A part essence is captured in the quote  below :
+Leadership has many facets. A part essence is captured in the quote  below :
   
 > Management is doing things right while  leadership is doing the right things. – Peter Drucker
 
