@@ -49,7 +49,7 @@ And you know, you can even create tables using Markdown. See just like a table b
 
 | ColA | ColB | 
 |---|---|
-Data A1 | DataB1
+Data A1 | DataB
 Data A2 | DataB2
 Data A3 | DataB3
 
