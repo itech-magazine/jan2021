@@ -40,6 +40,13 @@
   margin-bottom: 10px;
 }
 
+.article div.content > p:last-child {
+  padding: 10px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
 .article .content table {
   border-collapse: collapse;
   text-indent: initial;

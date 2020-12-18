@@ -68,8 +68,12 @@ $(document).ready(function () {
             // set in button the href we got
             var prevBtn = document.getElementsByClassName('buttons')[0].getElementsByTagName('a')[0];
             prevBtn.href = hrefs[0];
-            var nextBtn = document.getElementsByClassName('buttons')[0].getElementsByTagName('a')[1];
+            var nextBtn = document.getElementsByClassName('buttons')[0].getElementsByTagName('a')[2];
             nextBtn.href = hrefs[1];
+
+            // set link in git button
+            var gitEditBtn = document.getElementsByClassName('buttons')[0].getElementsByTagName('a')[1];
+            gitEditBtn.href = getGitEditLinkForMd(title);
         }
         
     };
@@ -77,6 +81,11 @@ $(document).ready(function () {
     // --------------------------------------------
     //  U T I L S
     // --------------------------------------------
+
+    // gets a link where md file can be edited
+    window.getGitEditLinkForMd = function(title) {
+        return 'https://github.com/itech-magazine/jan2021/edit/master/docs/pages/mds/' + title + '.md';
+    };
 
     // coverts space separated text to '-' separated
     window.spaceSepTxtToHypenSep = function(txt) {
@@ -230,6 +239,9 @@ $(document).ready(function () {
 
         // remove title
         content.removeChild(title);
+
+        // show git edit button
+        document.getElementsByClassName('buttons')[0].getElementsByTagName('a')[1].classList.remove('d-none');
     };
 
 
