@@ -61,8 +61,9 @@ in should be `machine-learning.md`. Checkout this file as markdown from [here]. 
 
 Ready to start writing? 
 
-
 [Click here to submit your content] 
+
+**Disclamer:** By submitting content on this website, you agree to be solely responsible of, and any harm and damages resulting from that Content.
 
 [Marked]: https://github.com/markedjs/marked/
 [Markdown]: http://daringfireball.net/projects/markdown/
