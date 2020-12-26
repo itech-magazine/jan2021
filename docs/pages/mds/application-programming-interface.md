@@ -3,6 +3,12 @@ Assistant Director(Systems), Project Insight
 
 Best Practices in RESTful API Development
 ========================
+
+> *Hello Friends,*    
+> *In the previous article we learnt about Open API Specification and its need in the API development. This is next article in the series which* 
+> *focuses on Best Practices in API Development*
+
+
 ![](https://cdn.tiempodev.com/wp-content/uploads/2020/07/28055436/api-design-best-practices-01.jpg)
 
 
