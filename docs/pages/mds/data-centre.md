@@ -39,10 +39,12 @@ Similar to this other commonly used online tools are
 - https://www.shodan.io
 
 >Wayback Machine search through Waybackurls (Passive)
+
 This command line tool fetches archive records from Internet Archieve/Waybackmachine & can be useful to identify existing & historical url paths with parameters (as in Fig 3.)
 ![Fig. 3 – enumeration of path & param through waybackurl](https://i.ibb.co/TqBGLg7/data-center-fig3.png "Fig-3 : enumeration of path & param through waybackurl")
 
 >URL path & content enumeration through Brute Force (Active)
+
 Since web applications also have many url paths & directories which are not directly exposed through navigation paths/sitemaps or robots.txt. Such paths & pages on it are often used for sensitive operations and at times are not password protected. With brute force on web applications using wordlists, such paths can be enumerated (as shown in Fig 4).
 ![Fig. 4 – enumeration of example.com through dirsearch](https://i.ibb.co/t3z4tFb/data-center-fig4-jpg.png "Fig-4 : enumeration of example.com through dirsearch")
 
