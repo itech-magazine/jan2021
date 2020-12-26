@@ -4,11 +4,12 @@ Assistant Director(Systems), Project Insight
 Best Practices in RESTful API Development
 ========================
 ![](https://cdn.tiempodev.com/wp-content/uploads/2020/07/28055436/api-design-best-practices-01.jpg)
+***Source: https://itech-magazine.github.io/jan2021/pages/article.html?title=application-programming-interface***
 
 
 Introduction
 -------------
-RESTful API development definitely revolutionized the software design and development. But with great power comes greater responsibility. Since, REST architectural style is not a Standard in itself, instead it just provides the guiding principles in design of efficient APIs, which somehow leaves a scope of carelessness in development. REST architectural style have 6 guiding constraints which are Client-Server, Stateless, Cacheable, Uniform Interface, Layered System and Code on Demand (Optional). Apart from these constraints, everything is open for developer to implement.
+RESTful API development definitely revolutionized the software design and development. But with great power comes greater responsibility. Since, REST architectural style is not a Standard in itself, instead it just provides the guiding principles in design of efficient APIs, which somehow leaves a scope of carelessness in development. REST architectural style have 6 guiding constraints which are **Client-Server, Stateless, Cacheable, Uniform Interface, Layered System and Code on Demand (Optional)**. Apart from these constraints, everything is open for developer to implement.
 
 Basic features of a well-designed API
 -------------
@@ -20,7 +21,7 @@ Concepts explained earlier regarding basic features of a well-designed API can b
 
 >Best Practice-1 : Consider using JSON
 
-REST can use different formats for output such as plain text, JSON, CSV, XML, RSS etc. However, using JSON provides some advantage such as easily readable, quite popular in public facing APIs, and easily understandable.
+REST can use different formats for output such as **plain text, JSON, CSV, XML, RSS** etc. However, using JSON provides some advantage such as easily readable, quite popular in public facing APIs, and easily understandable.
 
 >Best Practice-2 : Descirbe API URLs with Nouns rather than verb
 
@@ -28,11 +29,11 @@ First thing first, the base URL of an API should be simple, elegant should provi
 
 >Best Practice-3 : Use meaningful response codes
 
-Response codes are the ones which provide proper closure to an API call. Providing meaningful response code step ups the experience of API operation. Every successful request should accompany 2XX status code, every client error with 3XX and server error with 5XX HTTP Status Code
+Response codes are the ones which provide proper closure to an API call. Providing meaningful response code step ups the experience of API operation. Every successful request should accompany **2XX** status code, every client error with **3XX** and server error with **5XX** HTTP Status Code
 
 >Best Practice-4 : Use Rate Limiting and Throttling
 
-In order to avoid DDOS, DOS attacks, each consumer of APN should be rate limited and should detect if too many requests are coming from a single consumer in a short duration.
+In order to avoid **DDOS, DOS** attacks, each consumer of APN should be rate limited and should detect if too many requests are coming from a single consumer in a short duration.
 
 
 >Best Practice-5: API Versioning
