@@ -27,6 +27,7 @@ Few of the useful recon tools & techniques with example (sample target www.examp
 Identifying IP addresses, hosting location & available sub-domains (passive) through https://community.riskiq.com
 As shown in Fig-1, IP address registered for an organization or against a domain can be fetched.
 Further navigating to the subdomains tab, all the existing subdomains will be shown.
+![](https://i.ibb.co/bXdmKyP/data-center-fig1.jpg)
 
 
 Similar to this other commonly used online tools are 
