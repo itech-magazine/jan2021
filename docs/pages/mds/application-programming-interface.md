@@ -4,7 +4,7 @@ Assistant Director(Systems), Project Insight
 Best Practices in RESTful API Development
 ========================
 ![](https://cdn.tiempodev.com/wp-content/uploads/2020/07/28055436/api-design-best-practices-01.jpg)
-***Source: https://itech-magazine.github.io/jan2021/pages/article.html?title=application-programming-interface***
+
 
 
 Introduction
