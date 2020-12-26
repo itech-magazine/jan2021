@@ -14,6 +14,7 @@ Introduction
 Reconnaissance is one of the crucial phase through which target organization’s IT assets & vulnerabilities are enumerated which helps further to evaluate potential attack surface. 
 It is a process of collecting information of the target which can be an organization, a data-center or a web application. 
 The commonly gathered information is existing domains, sub-domains, accessible IP addresses, directory structure of domains & sub-domains, ports & services running on these ports, technologies being used their versions & vulnerabilities.
+![Active and Passive Reconnaissance](https://i.ibb.co/SmDD3Mw/image.png "Active and Passive Reconnaissance")
 
 Active Reconnaissance
 ---------------------
