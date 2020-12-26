@@ -22,7 +22,7 @@ Reconnaissance Tools & Techniques
 --------------------------------
 Few of the useful recon tools & techniques with example (sample target www.example.com) are explained here. These approaches are carried out by attackers & penetration testers to evaluate the security posture of organization.
 
-> **Identifying Ip Addresses And Other Details **
+> Identifying Ip Addresses And Other Details
 
 Identifying IP addresses, hosting location & available sub-domains (passive) through https://community.riskiq.com
 As shown in Fig-1, IP address registered for an organization or against a domain can be fetched.
