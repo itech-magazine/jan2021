@@ -4,6 +4,11 @@ Assistant Director (Systems), ADG(S)-1
 Active and Passive Reconnaissance for Information Gathering
 =====================================
 
+> Hello Friends, 
+>
+> We  started  this  series  with  what goes into designing a modern datacenter and in the last article, you all came  to  know  about  the  Non-Obvious and Potential Attack > Vectors. In this article, the focus would be learn about Active and passive Reconnaissance for Information Gathering.
+
+
 ![](https://i.ibb.co/dp2D8cM/image.png)
 
 Introduction
