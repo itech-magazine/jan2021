@@ -22,7 +22,7 @@ Data to be transmitted is broken up into manageable data packets. Each data pack
 
 Types of Firewall
 ------------------
-> According to the structure and method of delivery, there are three types of firewalls:  
+> According to the structure and method of delivery, there are three types of firewalls:
 
 **Software Firewalls** are installed on a local device/host rather than a separate piece of hardware (or a cloud server). Not every device on a network may be compatible with a single software firewall, which may mean to use several different software firewalls to cover every asset. Hence, maintaining individual software firewalls on different devices can be difficult and time-consuming. It has to utilize resources (some of the system’s RAM and CPU) to work.  
 The benefit is that it is highly useful for creating defense in depth by isolating individual network endpoints from one another. They can distinguish between programs while filtering incoming and outgoing traffic and can deny access to one program while allowing access to another.  
