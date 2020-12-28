@@ -23,6 +23,7 @@ Data to be transmitted is broken up into manageable data packets. Each data pack
 Types of Firewall
 ------------------
 > According to the structure and method of delivery, there are three types of firewalls:  
+
 **Software Firewalls** are installed on a local device/host rather than a separate piece of hardware (or a cloud server). Not every device on a network may be compatible with a single software firewall, which may mean to use several different software firewalls to cover every asset. Hence, maintaining individual software firewalls on different devices can be difficult and time-consuming. It has to utilize resources (some of the system’s RAM and CPU) to work.  
 The benefit is that it is highly useful for creating defense in depth by isolating individual network endpoints from one another. They can distinguish between programs while filtering incoming and outgoing traffic and can deny access to one program while allowing access to another.  
 
@@ -33,7 +34,8 @@ The major weakness is that it is often easy for insider attacks to bypass them.
 **A Cloud Firewall or Firewall-as-a-Service (FaaS)** is a cloud solution for network protection. Like other cloud solutions, it is maintained and run on the Internet by third-party vendors.  
 Cloud firewalls are often used as proxy servers. They are independent of physical resources, which allows scaling the firewall capacity according to the traffic load.
 
-> According to the mode of operation, there are five types of firewalls:  
+> According to the mode of operation, there are five types of firewalls:
+
 **Packet-filtering firewall** inspects the data packets for information such as the destination and source IP address, packet type, port number and other surface-level information without opening up the packet to inspect its contents. Depending on the access control list (rules defining wanted /unwanted traffic), the packets are passed on or dropped.  
 Such firewall is a fast solution that doesn’t require a lot of resources. Although it inspects header information, it doesn’t check the data (payload) itself. Since malware can also be found in this section, this firewall is not strongly secure. It also does not track packets, so it has no information about the preceding packets. Therefore, if thousands of packets came from same IP address in a short period of time (DoS attack), a host would not notice that this pattern is unusual. Such firewalls are quite susceptible to either a ping flood or SYN flood. They also do not offer any user authentication and are relatively easy to bypass.  
 
