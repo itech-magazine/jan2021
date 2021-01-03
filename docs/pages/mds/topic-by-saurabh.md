@@ -1,5 +1,5 @@
 Saurabh Jain
-Assistant Director (Systems), Project Insight  
+Assistant Director (Systems), Project Insight
 Economy Enthusiast
 
 
