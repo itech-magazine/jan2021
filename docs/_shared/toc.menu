@@ -14,9 +14,9 @@
                         <li>
                             <a href="#" class="link-simple">Application Programming Interface</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="#" class="link-simple">Simplifying Technology</a>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="#" class="link-simple">Cybersecurity</a>
                         </li>
@@ -59,9 +59,9 @@
                         <li>
                             <a href="#" class="link-simple">Techonomy</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="#" class="link-simple">Topic by Soumya</a>
-                        </li>
+                        </li>-->
                         <li>
                             <a href="#" class="link-simple">Topic by Kaviraj</a>
                         </li>
