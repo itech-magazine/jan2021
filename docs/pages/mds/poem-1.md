@@ -1,6 +1,6 @@
 Daya Panwar  
 Assistant Director (Systems), O/o CIT(e-Verification)  
-A poet.
+A poet
 
 अच्छे कर्म किए जा 
 ========================
