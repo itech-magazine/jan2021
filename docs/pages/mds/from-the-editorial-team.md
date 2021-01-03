@@ -15,7 +15,7 @@ We hope the content of this magazine will help in bridging the gap between Syste
 
 ![](https://i.ibb.co/d64v9Bp/image.png "Happy New Year 2021")
 
-Team iTEch
+Team iTech
 ----------
 
 
