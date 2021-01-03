@@ -7,7 +7,7 @@ Software Architecture or Functionality - What comes first for you ?
 ![](https://www.crucibledevlabs.com/themes/demo/assets/images/resource/cartoonie-1.png)
 
 The word “software” is a word composed of two words - “soft” and “ware.” The word “ware” means “product” and the word
-“soft”… Well, that’s where the second value lies. Software was invented to be “soft.” It was intended to be a way to easily change the behavior of machines. If we’d wanted the behavior of machines to be hard to change, we would have called it hardware, wouldn't we ?
+“soft”… Well, that’s where the value lies. Software was invented to be “soft.” It was intended to be a way to easily change the behavior of machines. If we’d wanted the behavior of machines to be hard to change, we would have called it hardware, wouldn't we ?
 
 To be true to its purpose, the software must be soft — that is, it must be easy to change. When the people at CBDT want to implement a changes in an existing form or the way of processing TDS statements, that change must be easy to make. From the department point of view, they are simply giving a stream of changes which are more of less similar to previous one, but for the developers, it is a stream of puzzle that they must fit into a existing puzzle of ever increasing complexity. There is a reason that the first year of development is much cheaper than the second, and the second year is much cheaper than the third. The reason or the problem is the architecture of the system, the tight coupling (dependency) the various parts of system and lack of cohesion (grouping similar modules together).
 
