@@ -11,7 +11,7 @@ The word “software” is a word composed of two words - “soft” and “ware
 
 To be true to its purpose, the software must be soft — that is, it must be easy to change. When the people at CBDT want to implement a changes in an existing form or the way of processing TDS statements, that change must be easy to make. From the department point of view, they are simply giving a stream of changes which are more of less similar to previous one, but for the developers, it is a stream of puzzle that they must fit into a existing puzzle of ever increasing complexity. There is a reason that the first year of development is much cheaper than the second, and the second year is much cheaper than the third. The reason or the problem is the architecture of the system, the tight coupling (dependency) the various parts of system and lack of cohesion (grouping similar modules together).
 
-The Wrong attitude
+The wrong attitude
 ----------------------------------
 
 There is a reason why much congnizance isn't paid to the architecture of a system in each and every change. It is largely due to the fact that the changes are mainly driven by people who are mostly functional and thus pay more attention to the function than architecture. Also, the Project managers often tend to make sure that atleast a functionality is developed and thus pay no heed to the architecture. This thinking even creeps into the minds of newbie developers due to lack of understanding of the system.
