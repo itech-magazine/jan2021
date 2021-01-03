@@ -1,7 +1,4 @@
 <ul class="index">
-                        <!-- <li>
-                            <a href="#" class="link-simple btn btn-outline-secondary w-100 mb-4">How to contribute content</a>
-                        </li>-->
                         <li>
                             <a href="#" class="link-simple">From the editorial team</a>
                         </li>
@@ -65,7 +62,4 @@
                         <li>
                             <a href="#" class="link-simple">Topic by Kaviraj</a>
                         </li>
-                        <!-- <li>
-                            <a href="#" class="link-simple btn btn-outline-secondary w-100 mt-4">How to contribute content</a>
-                        </li>-->
-                    </ul>
+                      </ul>
