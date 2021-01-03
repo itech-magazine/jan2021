@@ -1,6 +1,5 @@
 Aditya Dev  
 Assistant Director(Systems), Project Insight  
-Securing the Un-secured
 
 > *Hello Friends*  
 > *In the previous article we saw about the technical classification of Cyber Attacks. This is the next article in the series which focuses on Firewalls and their various types.*
