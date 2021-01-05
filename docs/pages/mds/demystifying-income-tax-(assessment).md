@@ -3,7 +3,7 @@ Assistant Director (Systems), RCC Mumbai
 Likes to learn new things
 
 >Hello Friends,  
-In the previous article we saw about various sections involved in Income tax return filing and this is next article in the series which focuses on Assessment and its procedure.
+In the previous article we read about various sections involved in Income tax return filing and this is next article in the series which focuses on Assessment and its procedure.
 
 ASSESSMENT
 =============
@@ -11,7 +11,7 @@ Assessment means ‘action of assessing someone or something’ In terms of retu
 
 SECTION 140(A) - SELF ASSESSMENT
 ---------------------------------
-While filing an income tax return under section 139, there are two options to choose return New tax regime or Old tax regime, Assessee can himself choose the option, if he selects new tax regime then new tax slab rates were applicable and deductions and exemptions were not allowed. If Assessee selects old tax regime then assesse can determine income tax payable based on his income and his return filing form, by consolidating all sources of income earned and excluding deductions and exemptions if applicable, and then reducing Tds, advance tax, tcs if paid and then determining the payable tax and file return accordingly this process is self-assessment.
+While filing an income tax return under section 139, there are two options to choose return *New tax regime* or *Old tax regime*, Assessee can himself choose the option, if he selects new tax regime then new tax slab rates were applicable and deductions and exemptions were not allowed. If Assessee selects old tax regime then assesse can determine income tax payable based on his income and his return filing form, by consolidating all sources of income earned and excluding deductions and exemptions if applicable, and then reducing Tds, advance tax, tcs if paid and then determining the payable tax and file return accordingly this process is self-assessment.
 
 SECTION 143(1) - SUMMARY ASSESSMENT
 -----------------------------------
