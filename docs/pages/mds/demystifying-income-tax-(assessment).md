@@ -1,6 +1,5 @@
-Kaviraj  Ayatti  
+Kaviraj  Ayatti
 Assistant Director (Systems), RCC Mumbai  
-Likes to learn new things
 
 >Hello Friends,  
 In the previous article we read about various sections involved in Income tax return filing and this is next article in the series which focuses on Assessment and its procedure.
