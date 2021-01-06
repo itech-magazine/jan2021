@@ -22,6 +22,7 @@ Most leaders develop that unbreakable faith in their intelligence, instincts and
 humility and unarguably prove they are  most "qualified for the job" through  relentless efforts  
 
 Lack of delegation and micromanagement at the leadership level, not only affects the morale of co-workers but also hampers growth and stunts productivity. Thus many high performing leaders end up with de-motivated teams.  
+
 > Theodore Roosevelt once said, “The best leader  is one who has sense enough to pick good men to do what he wants to be done, and self-restraint enough to keep from meddling with them while they do it.”.
   
 It's crucial to  “walk the talk”.  How does a leader ensure this?   A leader must always align his personal code of ethics with the organisation's core values. 
