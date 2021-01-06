@@ -108,6 +108,11 @@ path {
 
 @media only screen and (max-width: 961px) {
   /* smartphones, iPhone */
+  
+  .article .author-info ul {
+     display: flex;
+     flex-direction: column;
+  }
 
   .article .author-info li:first-child {
     font-size: smaller;
