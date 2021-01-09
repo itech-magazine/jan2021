@@ -39,7 +39,7 @@ Response codes are the ones which provide proper closure to an API call. Providi
 
 >Best Practice-4 : Use Rate Limiting and Throttling
 
-In order to avoid **DDOS, DOS** attacks, each consumer of APN should be rate limited and should detect if too many requests are coming from a single consumer in a short duration.
+In order to avoid **DDOS, DOS** attacks, each consumer of API should be rate limited and should detect if too many requests are coming from a single consumer in a short duration.
 
 
 >Best Practice-5: API Versioning
