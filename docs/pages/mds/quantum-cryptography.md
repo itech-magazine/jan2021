@@ -7,8 +7,8 @@ Quantum Cryptography - The science of exploiting quantum mechanical properties t
 ![](https://gcn.com/-/media/GIG/EDIT_SHARED/Cyber/quantumencryption.png)
 
 It's easy to multiply two prime numbers, but it's difficult, given a large number, to find its two prime factors. 
-This fundamental idea acts as the basis for asymmetric key algorithms like RSA. Such algorithms based on the mathematical difficulty of factorisation or lack of knowledge of 
-some algorithm that can accomplish the same in a reasonable amount of time.  RSA is pervasive with all our internet activity like browsing, emails, digital signature etc. 
+This fundamental idea acts as the basis for asymmetric key algorithms like RSA. Such algorithms are based on the mathematical difficulty of factorisation or lack of knowledge of 
+some algorithm that can accomplish the same in a reasonable amount of time.  RSA is used pervasively in all our internet activities like browsing, emails, digital signature etc. 
 Therefore, a lot is at stake when such an algorithm goes friable. And, of course, yes, as the time progress, technologies are developing that threaten existing algorithms and test their mettle. Such technologies can lay bare open all our communications, rendering the existing algorithms--virtually useless.
 
 
@@ -36,8 +36,8 @@ quantum computer is having a maximum of 65 qubits in length, and there is a long
 difficulties due to the inconsistency in measuring quantum states, and issues of noise while measuring them have caused underutilisation of all the available qubits. 
 Countries like China have made strides in the research of such bleeding-edge technologies, and also has an experimental satellite to test quantum technology. 
 
-> India has recently ventured on Quantum Computing research with an allotment of 8000 crores in the budget.
+> India has recently ventured on to Quantum Computing research with an allotment of 8000 crores in the budget.
 
 Conclusion
 -------------------
-Certainly, Quantum technology is going to be a disruptive technology with profound impacts on all walks of life. It is time to rethink how today's computation will work tomorrow, and there are a lot of leeways for the bright minds to invest and invent some of the pathbreaking technologies, and become trailblazers in the arena of Quantum Computing.
+Certainly, Quantum technology is going to be a disruptive technology with profound impacts on all walks of life. It is time to rethink how today's computation will work tomorrow, and there are a lot of leeways for the bright minds to invest in, and invent, some of the pathbreaking technologies, and become trailblazers in the arena of Quantum Computing.
