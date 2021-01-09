@@ -70,7 +70,7 @@ The Network Operations are managed using Network Monitoring Systems having capab
 - Patch management
 - IT performance reporting
 
-In the previous Networking series article, we went into detail the network perimeter and components to secure it. The SOC team is responsible for implementation of security provisions. The security provisions from Network perspective typically includes the following:
+In the previous Networking series article, we went into detail of the network perimeter and components to secure it. The SOC team is responsible for implementation of security provisions. The security provisions from Network perspective typically includes the following:
 - Firewalls, IPS, IDS, proxy servers, or gateway configuration
 - Access Control Lists (ACLs) formation and implementation
 - SNMP configuration and monitoring
