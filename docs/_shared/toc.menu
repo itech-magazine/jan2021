@@ -23,9 +23,9 @@
                         <li>
                             <a href="#" class="link-simple">Networking</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="#" class="link-simple">Cloud Computing</a>
-                        </li>
+                        </li>-->
                         <li>
                             <a href="#" class="link-simple">Software Design and Architecture</a>
                         </li>
