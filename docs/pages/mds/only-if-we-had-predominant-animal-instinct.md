@@ -1,10 +1,10 @@
 Rajneesh Batra
 Joint Director (Systems), ADG(S)-5
 
-Only if we had PREDOMINANT Animal Instinct
+DONUT - The Mentor
 ==============================================
 
-![](https://cdn.britannica.com/97/92697-050-39C05D91/Lions-warthog.jpg)
+![](https://i.ibb.co/V9jSWHk/pet.jpg)
 
 I know it would sound weird on the face of it but I am sure that majority of you would join the league by the time I am through with my prophecy.
 
