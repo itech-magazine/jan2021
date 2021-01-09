@@ -24,4 +24,6 @@ Considering above challenges across the spectrum, it would be good if following 
 •	Computer Science should be branched out into different sub-branches. The time has come to declare it as a new mother of all branches.  
 •	Super specialization should be a must. An emphasis should be placed on projects rather than formal degrees.  
 
+![](https://i.ibb.co/wKk5cdd/image.png)  
+
 However, one should not discount the luxury of being homeless because only a true wanderer with no bonding or desires can achieve real salvation in life.
