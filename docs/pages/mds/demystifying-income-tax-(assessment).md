@@ -56,6 +56,7 @@ Reference:
 1.  https://www.incometaxindia.gov.in/
 2.	https://cleartax.in/s/income-tax-assessment
 
+> Note: This article is for information purpose only and is not purported to be the official position of the CBDT or the Government. It is not meant to be cited or relied upon in any official or legal communication.
 
 
 
