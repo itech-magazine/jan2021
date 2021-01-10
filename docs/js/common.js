@@ -173,6 +173,9 @@ $(document).ready(function () {
                 if(inx - 1 < 0) {
                     return ['../index.html', hyperlinks[inx + 1].href]
                 }
+                else if (inx + 1 == hyperlinks.length) {
+                    return [hyperlinks[inx - 1].href, '../index.html']
+                }
                 else {
                     return [hyperlinks[inx - 1].href, hyperlinks[inx + 1].href]
                 }
