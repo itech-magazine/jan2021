@@ -5,6 +5,8 @@ Team i-Tech
 Dear Readers,
 ==============
 
+![](images/authors/editorial-team.png)
+
 In the year 2020, Human civilization faced unforeseen situations like the COVID-19 crisis, the Locust attack, and unprecedented country-wide lockdowns across the world. Thankfully the worst is over and the entire world is welcoming the year 2021 with new zeal, excitement, and vision. This year would definitely come as a year of healing, recovery, and resurgence. It will certainly rescript the growth narrative which was disrupted by events of the year 2020. One of the key elements of this rescripting would be Technology.  
 
 Honorable PM in the recent Bengaluru Tech Summit 2020  underlined the importance of technology. He remarked that, **“We are in the middle of the information era. The future is coming sooner than anticipated. In the information era, the first mover did not matter; the best mover did, and anyone can make a product any time that disrupts all existing equations of the market”**.  *One such disruptive 21st-century solution is the Faceless assessment system launched by the Department of Income Tax*.  The acceptance of this innovative solution in the field is encouraging and reassuring. Directorate of Income Tax(Systems) is leaving no stone unturned in tapping the latest technologies in making our department more tech-savvy, futuristic, and world-class.  
