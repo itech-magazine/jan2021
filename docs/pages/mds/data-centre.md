@@ -6,7 +6,7 @@ Active and Passive Reconnaissance for Information Gathering
 
 > Hello Friends,
 >
-> We  started  this  series  with  what goes into designing a modern datacenter and in the last article, you all came  to  know  about  the  Non-Obvious and Potential Attack Vectors. In this article, the focus would be learn about Active and passive Reconnaissance for Information Gathering.
+> We  started  this  series  with  what goes into designing a modern datacenter and in the last article, we learned  about  the  Non-Obvious and Potential Attack Vectors. In this article, the focus would be to learn about Active and passive Reconnaissance for Information Gathering.
 
 
 ![](https://i.ibb.co/dp2D8cM/image.png)
@@ -16,7 +16,7 @@ Introduction
 Reconnaissance is one of the crucial phase through which target organization’s IT assets & vulnerabilities are enumerated which helps further to evaluate the potential attack surface. 
 It is a process of collecting information on the target which can be an organization, a data-center or a web application. 
 
-The commonly gathered information are existing domains, sub-domains, accessible IP addresses, directory structure of domains & sub-domains, ports & services running on these ports, technologies being used their versions & vulnerabilities.
+The commonly gathered information are existing domains, sub-domains, accessible IP addresses, directory structure of domains & sub-domains, ports & services running on these ports, technologies being used, their versions & vulnerabilities.
 
 Active Reconnaissance
 ---------------------
@@ -45,7 +45,7 @@ Similar to this other commonly used online tools are [Censys], [DnsDumpster], [b
 
 Wayback Machine Search Through Waybackcurls (Passive)
 -----------------------
-This command line tool fetches archive records from Internet Archieve/Waybackmachine & can be useful to identify existing & historical url paths with parameters (as in below figure)
+This command line tool fetches archive records from Internet Archieve/Waybackmachine & can be useful to identify existing & historical url paths with parameters (as shown in below figure)
 
 ![](https://i.ibb.co/kxBjM9B/image.png)
 
@@ -57,7 +57,7 @@ Since web applications also have many url paths & directories which are not dire
 
 Conclusion
 ---------------
-Through this article, it was tried to share few of the common approaches of active & passive reconnaissance. Further approaches will be continued in subsequent articles.
+Through this article, we shared few of the common approaches of active & passive reconnaissance. Further approaches will be continued in subsequent articles.
 
 
 
