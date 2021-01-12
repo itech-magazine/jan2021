@@ -36,7 +36,7 @@ quantum computer is having a maximum of 65 qubits in length, and there is a long
 difficulties due to the inconsistency in measuring quantum states, and issues of noise while measuring them have caused underutilisation of all the available qubits. 
 Countries like China have made strides in the research of such bleeding-edge technologies, and also has an experimental satellite to test quantum technology. 
 
-> India has recently ventured on to Quantum Computing research with an allotment of 8000 crores in the budget.
+> India has recently ventured on to Quantum Computing research with an allotment of Rs. 8000 crores in the budget.
 
 Conclusion
 -------------------
