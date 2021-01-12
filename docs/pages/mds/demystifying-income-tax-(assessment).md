@@ -44,7 +44,7 @@ The assessee has failed to furnish reports on international transactions, where 
 
 SECTION 153A and SECTION 153C – ASSESSMENT IN CASE OF SEARCH OR REQUISITION and ANY OTHER PERSON
 -------------------------------------------------------------------------------------------------
-Based on certain reasonable information Income Tax Department's Investigation wing carries out search or requisition on Assessee’s premises/offices and tries to find out unaccounted or escaped money from taxation i.e. The searched Assessee’s income is assessed under section 153A, while doing the search process if any other information is found which may related to other Assessee’s those will be considered as reference assessment and their income assessed under section 153C. 
+Based on certain reasonable information Income Tax Department's Investigation wing carries out search or requisition on Assessee’s premises/offices and tries to find out unaccounted or escaped money from taxation i.e. The searched Assessee’s income is assessed under section 153A, while doing the search process if any other information is found which may be related to other assessee those will be considered as reference assessment and their income assessed under section 153C. 
 Assessment of income of searched person can be carried out for last 6 years, immediately preceding the year of search by Income tax authority.
 
 Reference: 
