@@ -37,7 +37,7 @@ SECTION 147 – INCOME ESCAPING ASSESSMENT
 ----------------------------------------
 When Income Tax Authority has sufficient reasons to believe that any taxable income has escaped from taxation to assess, or from earlier assessment to assess the income of assessee’s, Income Tax Authority Initiates Assessment u/s 147. The time limit to issuing a notice to reopen the assessment is 4 years from the end of the relevant assessment year.  
 Section 147 is initiated in the following senarios:
--The assessee may having taxable income but has not yet filed his return.
+-The assessee may be having taxable income but has not yet filed his return.
 -The assessee, after filing the income tax return, is found to have either understated his income or claimed excess allowances or deductions.  
 The assessee has failed to furnish reports on international transactions, where he is required to do so.
 
