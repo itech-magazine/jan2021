@@ -126,4 +126,8 @@ path {
     content: "";
     margin-right: 0px;
   }
+  
+  .author-img {
+     height: 64px;
+  }
 }
