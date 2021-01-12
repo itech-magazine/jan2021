@@ -9,13 +9,13 @@ Assistant Director(Systems), Project Insight
 
 Introduction to Firewalls
 =========================
-What is a Firewall
+What is a Firewall ?
 ------------------
 A firewall is a security device that monitors network traffic acting as a fence between internal network and the outside world or the Internet by filtering incoming and outgoing traffic based on a set of established rules. Firewalls filter packets based on parameters as packet size, source IP address, protocol, destination port etc. to block malicious traffic requests and data packets while allowing legitimate traffic through. Setting up a firewall is the simplest way of adding a security layer between a system and malicious attacks.
 
 ![](https://i.ibb.co/v1SQwFj/image.png "Source: https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/07/Basic-Firewall-Network-Example-1.png")
 
-How does a Firewall work
+How does a Firewall work ?
 ------------------------
 Data to be transmitted is broken up into manageable data packets. Each data packet consists of a header (control information about the sender and the receiver) and payload (the actual data). Before the packet can enter the internal network through the defined port, it must pass through the firewall. This transfer depends on the information it carries and how it corresponds to the predefined rules. For example, firewall can have a rule that excludes traffic coming from a specified IP address. If it receives data packets with that IP address in the header, the firewall denies access. Similarly, a firewall can deny access to anyone except the defined trusted sources.
 
