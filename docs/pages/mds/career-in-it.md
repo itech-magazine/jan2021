@@ -1,6 +1,5 @@
-Saurabh Jain  
-Assistant Director (Systems), Project Insight  
-
+Saurabh Jain
+Assistant Director (Systems), Project Insight
 
 The IT conundrum
 ================
@@ -14,7 +13,7 @@ The key to making a successful career in computer science is to ***learn, unlear
 
 >The **second** in the rung are Technologist, Programmer, Architect, or Team leads in the service-based industry often working to apply the tools of Computer Science in other domains.   Oftentimes, their employer deploys a full battery of HR experts whose main job is to keep the work force up to date with help of sponsored training or on the job hands on training.
 
-The real challenge lies for people working in the Government sector as IT professionals. The general atmosphere is not conducive to learning. The security of government jobs and hierarchical setup further takes away any incentive to learn and apply one’s skill. The domain experts often confuse them with contract employees or consultants. Hence a sense of ownership is difficult to develop. The feeling of homelessness is most poignant and incisive for these classes of people. Ironically, they are the poorest in the clan. The limitations of salary do not even allow them to prepare for any mid-life crisis, unlike their private-sector counterparts.
+The real challenge lies for people working in the Government sector as IT professionals. The general atmosphere is not conducive to continuous learning. The security of government jobs and hierarchical setup further takes away any incentive to learn and apply one’s skill. The domain experts often confuse them with contract employees or consultants. Hence a sense of ownership is difficult to develop. The feeling of homelessness is most poignant and incisive for these classes of people. Ironically, they are the poorest in the clan. The limitations of salary do not even allow them to prepare for any mid-life crisis, unlike their private-sector counterparts.
 
 
 Considering above challenges across the spectrum, it would be good if following things could be institutionalized for IT professionals across the world:
