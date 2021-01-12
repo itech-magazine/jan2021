@@ -1,6 +1,5 @@
 Saurabh Jain
 Assistant Director (Systems), Project Insight
-Economy Enthusiast
 
 
 TECHONOMY
@@ -27,13 +26,13 @@ A real-time face recognition enabled services or image matching based services c
 
 >4.	Green technologies  
 
-Cheap solutions to Solar panels, smart metering, water harvesting system, piped gas line, piped waterline (clean water tech), energy-efficient housing technology, rooftop/backyard landscape design using tree plantation, Electric vehicle, efficient public transport system is the need of the hour for our nation.
+Cheap solutions to Solar panels, smart metering, water harvesting system, piped gas line, piped waterline (clean water tech), energy-efficient housing technology, rooftop/backyard landscape design using tree plantation, Electric vehicle, efficient public transport system are the need of the hour for our nation.
 
 >5.	Mobility based digital solutions  
 
 School, Dispensary, Public offices, Post offices, Courts, Police Stations, Toilets, Cinemaghars, Election booths, etc. could be installed on customized mobile vehicles like cars, buses, Trucks rather than brick and mortar solutions. The mobile office could be taken to the doorsteps of the common man rather than common man searching for them.
 
 
-All of this is possible with the correct application of economy and technology. Faceless Income Tax is an illustrious example of synergy between Technology and the Economy. With the availability of talent, technology, and team spirit, India is well poised to achieve all the vision of New India.
+All of this is possible with the correct application of economy and technology. Faceless Income Tax is an illustrious example of synergy between Technology and the Economy. With the availability of talent, technology, and team spirit, India is well poised to achieve the vision of New India.
 
 
