@@ -53,13 +53,13 @@
                         <li class="index-heading">
                             General Knowledge
                         </li>
-                        <li>
-                            <a href="#" class="link-simple">Techonomy</a>
-                        </li>
                         <!-- <li>
                             <a href="#" class="link-simple">Topic by Soumya</a>
                         </li>-->
                         <li>
                             <a href="#" class="link-simple">Demystifying Income Tax (Assessment)</a>
+                        </li>
+                        <li>
+                            <a href="#" class="link-simple">Techonomy</a>
                         </li>
                       </ul>
