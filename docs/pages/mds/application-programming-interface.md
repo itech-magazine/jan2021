@@ -19,11 +19,11 @@ RESTful API development definitely revolutionized the software design and develo
 
 Basic features of a well-designed API
 -------------
-When we say an API is well designed, what do we mean by it? We must have some basic criteria to identify a well-designed API. So, in simpler terms a well-designed API should be quite easy to read and developer should feel at home to understand it, work with it and memorize it. It should be hard to misuse, with proper response code. It should also be complete and concise
+When we say an API is well designed, what do we mean by it? We must have some basic criteria to identify a well-designed API. So, in simpler terms a well-designed API should be quite easy to read and developer should feel at home to understand it, work with it and memorize it. It should be hard to misuse, with proper response code. It should also be complete and concise.
 
 Best practices in API design
 -------------
-Concepts explained earlier regarding basic features of a well-designed API can be broadly explained by means of certain best practices which should be taken care while designing APIs
+Concepts explained earlier regarding basic features of a well-designed API can be broadly explained by means of certain best practices which should be taken care while designing APIs.
 
 >Best Practice-1 : Consider using JSON
 
@@ -31,11 +31,11 @@ REST can use different formats for output such as **plain text, JSON, CSV, XML, 
 
 >Best Practice-2 : Descirbe API URLs with Nouns rather than verb
 
-First thing first, the base URL of an API should be simple, elegant should provide information what it is meant for. Resources are the core of API and we work with resources or collections (group of resources) i.e. PAN is an resource. When we name a resource in API, nouns should be used instead of verb such as /pan/LIMCA2339l should give info about PAN number LIMCA2339l and when we are talking about collection such as /pans should provide a list of PANs. We should avoid /getPan etc. Collections should be plural nouns
+First thing first, the base URL of an API should be simple, elegant and must provide information about what it is meant for. Resources are the core of API and we work with resources or collections (group of resources) i.e. PAN is an resource. When we name a resource in API, nouns should be used instead of verb such as /pan/LIMCA2339l should give info about PAN number LIMCA2339l and when we are talking about collection such as /pans should provide a list of PANs. We should avoid /getPan etc. Collections should be plural nouns.
 
 >Best Practice-3 : Use meaningful response codes
 
-Response codes are the ones which provide proper closure to an API call. Providing meaningful response code step ups the experience of API operation. Every successful request should accompany **2XX** status code, every client error with **3XX** and server error with **5XX** HTTP Status Code
+Response codes are the ones which provide proper closure to an API call. Providing meaningful response code steps up the experience of API operation. Every successful request should accompany **2XX** status code, every client error with **3XX** and server error with **5XX** HTTP Status Code.
 
 >Best Practice-4 : Use Rate Limiting and Throttling
 
@@ -56,7 +56,7 @@ Documenting an API is one of the important aspects in API design. A well-documen
 
 Conclusion
 ---------
-Best practices explained above are not exhaustive in nature but these practices provide some understanding about how to designed a well-defined API. The quality and efficiency of an API depends upon the developers and if they follow the guiding principles, a well-designed API can be developed.
+Best practices explained above are not exhaustive in nature but these practices provide some understanding about how to design a well-defined API. The quality and efficiency of an API depends upon the developers and if they follow the guiding principles, a well-designed API can be developed.
 
 
 
